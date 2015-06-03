@@ -1,0 +1,41 @@
+cast
+	air
+	earth
+	fire
+	water
+		shot
+			forward_#
+			diagUp_#
+			diagDown_#
+		impact
+			X#,Y#
+				blast_#
+		wave
+			X#,Y#
+				up
+				down
+				left
+				right
+					size_#
+		spike
+			X#,Y#
+shield
+	air
+	earth
+	fire
+	water
+		forward
+		back
+		up
+		down
+		top
+			break
+move
+	forward
+	back
+	up
+	down
+undo
+dodge
+cancel
+forfeit
